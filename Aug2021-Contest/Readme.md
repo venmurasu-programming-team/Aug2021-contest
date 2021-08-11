@@ -17,6 +17,17 @@ aug2021contest_<team name>.py <english_chapter_name.txt> <tamil_chapter_name.txt
 * `sentence_aligned.txt` containing aligned sentences for the input files with each sentence separated by `|` (pipe) character and sentences are newline (\n) delimited 
 * `machine_translated.txt` containing Tamil text and equivalent machine translated version separated by `|` (pipe) character with sentences newline (\n) delimited 
 * `bleu_score.txt` containing average computed score for the translated version
+
+
+## Selection
+
+Winners will be selected based on the following critieria:
+* Completion of the task ( weightage - 10% )
+* Quality of sentence alignment ( weightage - 20% )
+* Machine translation ( weightage - 30% )
+* BLEU score computation ( weightage - 20% )
+* Code quality (weightage - 20% )
+
  
 
 
