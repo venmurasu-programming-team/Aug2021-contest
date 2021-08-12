@@ -17,6 +17,7 @@ aug2021contest_<team name>.py <english_chapter_name.txt> <tamil_chapter_name.txt
 * `sentence_aligned.txt` containing aligned sentences for the input files with each sentence separated by `|` (pipe) character and sentences are newline (\n) delimited 
 * `machine_translated.txt` containing Tamil text and equivalent machine translated version separated by `|` (pipe) character with sentences newline (\n) delimited 
 * `bleu_score.txt` containing average computed score for the translated version
+* All the code and the results should be committed to a publicly available Github repository
 
 
 ## Selection
