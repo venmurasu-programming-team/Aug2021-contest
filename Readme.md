@@ -1,6 +1,6 @@
 # Aug 2021 - Contest 
 
-### Task for the participants (Preliminary Round)
+## Task for the participants (Preliminary Round)
 
 Stage-0: Scraping Tamil and English Articles - Completed by us
 
@@ -35,11 +35,12 @@ Stage-4: (Bonus points) Compare the model with other services
 ## Submission
 
 - Complete the task by the deadline and submit the shared Google form.
-  - The form will close sharply by the mentioned deadline
+  - The form will close sharply by the mentioned deadline (Aug 22 11:59PM IST)
   - Early submissions are welcome
-- For any doubts/clarifications regarding the contest, please go to the [_Issues_](https://github.com/venmurasu-programming-team/Aug2021-contest/issues)
+- For any doubts/clarifications regarding the contest, please go to the [_Issues_](https://github.com/venmurasu-programming-team/Aug2021-contest/issues) and raise your question
   (without posting your code or implementation details)
 - Please document your strategy of implementation in detail in the repo's README
+- Results would be announced within a week after the deadline, and shortlisted candidates would proceed to the final round.
 
 ## Selection
 
@@ -48,4 +49,4 @@ Winners will be selected based on the following critieria:
 * Quality of sentence alignment ( weightage - 20% )
 * Machine translation ( weightage - 30% )
 * BLEU score computation ( weightage - 20% )
-* Code quality (weightage - 20% )
+* Code quality and documentation (weightage - 20% )
