@@ -1,10 +1,25 @@
 # Aug 2021 - Contest 
 
-Setup:
+# Aug 2021 - Contest 
 
-Clone this repo into your github account
+## Overall Objective
 
-## Task for the participants (Preliminary Round)
+In Machine Learning Engineering, major amount of time is consumed for data collection, data cleaning, model development and model evaluation.
+- In this preliminary round, we will focus on data cleaning and model evaluation aspects of Natural Language Processing (NLP) using a toy data to get a very basic understanding of how they work.
+- The final round would involve all the 4 above mentioned tasks.
+
+The task in this round focuses on Machine Translation problem. The participants are required to complete the following:
+- Create a Tamil to English translation dataset using the toy data given
+- Evaluate the translation performance of existing open source models/services
+
+## Pre-requisites
+
+1. Basic knowledge on how to use Git and GitHub.
+2. A public GitHub repository where you will upload all your code and data.
+3. Basic understanding on how to use Google Colab (with stable internet connection)
+4. Clone/Download this repo into your github account / local computer to get the data
+
+## Task for the participants
 
 Stage-0: Scraping Tamil and English Articles - Completed by us
 
@@ -14,7 +29,7 @@ Stage-1: Building Parallel Dataset
 
 - Using python, split all the data into individual lines accurately such that each sentence in Tamil is aligned with English sentences.
   (Please note that Tamil version has additional context in brackets, additional texts which you can clean up and remove.)
-- Push all the aligned sentences and script in a new folder called “data”.
+- Push all the aligned sentences and script in a new folder called “data” in your repo.
 
 Stage-2: Running a Neural Machine Translation Model
 
