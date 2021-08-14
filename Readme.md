@@ -1,5 +1,9 @@
 # Aug 2021 - Contest 
 
+Setup:
+
+Clone this repo into your github account
+
 ## Task for the participants (Preliminary Round)
 
 Stage-0: Scraping Tamil and English Articles - Completed by us
