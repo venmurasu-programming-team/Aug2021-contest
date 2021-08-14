@@ -1,23 +1,37 @@
 # Aug 2021 - Contest 
 
-The `resources` directory consists of 10 files (chapters) of Mahabharatham text in both English and Tamil translated version.The files are named similar except for the language codes (`en` for English and `ta` for Tamil).
 
 ## Task for the participants
 
-* Pick any one set of chapters and sentence align the text between the English and Tamil versions
-* From the Tamil version containing split sentences, generate the machine translated version of the sentences in English using the Open Source NLP library [IndicTrans](https://github.com/AI4Bharat/indicTrans) 
-* Compute the BLEU score between each of the machine translated English sentences and the original English version using NLTK [BLEU Score Module](https://www.nltk.org/api/nltk.translate.html#module-nltk.translate.bleu_score)
-* The final submission should be in the form of Python script that takes two `args` and generates the results in `output` folder in the same working directory
+Stage-1: Scraping Tamil and English Articles - Completed
 
-```
-aug2021contest_<team name>.py <english_chapter_name.txt> <tamil_chapter_name.txt> 
+We are using Kisari Mohan Ganguli's english translation of Mahabharatam and it's line by line tamil translation by Arul Selva Perarasan as sample data set of this exercise. The `resources` directory consists of 10 files (chapters) of Mahabharatham text in both English and Tamil translated version.The files are named similar except for the language codes (`en` for English and `ta` for Tamil).
 
-```
-`output` folder should contain following files:
-* `sentence_aligned.txt` containing aligned sentences for the input files with each sentence separated by `|` (pipe) character and sentences are newline (\n) delimited 
-* `machine_translated.txt` containing Tamil text and equivalent machine translated version separated by `|` (pipe) character with sentences newline (\n) delimited 
-* `bleu_score.txt` containing average computed score for the translated version
-* All the code and the results should be committed to a publicly available Github repository
+
+Stage-2: Building Parallel Dataset
+
+Using python, split all the data into individual lines accurately such that each sentence in Tamil is aligned with English sentences.
+Please note that Tamil version has additional context in brackets, additional texts which you can clean up and remove.
+Push all the aligned sentences and script in a new folder called “data”.
+
+Stage-3: Running a Neural Machine Translation Model
+
+In this stage, you will have to translate all the Tamil sentences you created in the previous stage to get the machine-translated English sentences.
+You can use this latest open source model on Google Colab platform: https://github.com/AI4Bharat/indicTrans#using-the-model-for-translating-any-input
+After you translate all the Tamil sentences to English, upload the translated sentences in a new folder called “translations” in your repo
+
+Stage-4: Computing the scores of translation
+
+You should now compute the accuracy of translation, by comparing the original English sentence and translated English sentence.
+Accuracy in translation is generally reported using a metric called BLEU score (although there are many other metrics available)
+To compute BLEU scores, you can follow this tutorial: https://blog.machinetranslation.io/compute-bleu-score/
+Try to find out the overall BLEU score for all the 10 articles/stories that you scraped, and mention them in the README of your repo
+
+Stage-5: (Bonus points) Compare the model with other services
+
+There is a free version of Google Translate (would not be as great as Google’s API) using which you can get the translations for the same Tamil sentences and calculate the accuracy of the service.
+You can use this library: https://github.com/UlionTse/translators
+Similarly to stage-5, mention the BLEU scores for the 10 articles in your repo’s README
 
 
 ## Selection
