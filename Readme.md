@@ -1,6 +1,4 @@
-# Aug 2021 - Contest 
-
-# Aug 2021 - Contest 
+# Aug 2021 - Venmurasu Programming Contest 
 
 ## Overall Objective
 
