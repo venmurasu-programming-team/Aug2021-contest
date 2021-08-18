@@ -28,6 +28,7 @@ Stage-1: Building Parallel Dataset
 - Using python, split all the data into individual lines accurately such that each sentence in Tamil is aligned with English sentences.
   (Please note that Tamil version has additional context in brackets, additional texts which you can clean up and remove.)
 - Push all the aligned sentences and script in a new folder called “data” in your repo.
+- Pls. refer https://github.com/venmurasu-programming-team/Aug2021-contest/issues/2 in case of 1:many sentences
 
 Stage-2: Running a Neural Machine Translation Model
 
