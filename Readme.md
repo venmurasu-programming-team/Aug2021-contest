@@ -1,3 +1,6 @@
+## Submission
+For submitting your code and results, add [cmrajan](https://github.com/cmrajan) , [GokulNC](https://github.com/GokulNC) , [visu](https://github.com/visu) as collaborators to your private repository
+
 # Aug 2021 - Venmurasu Programming Contest 
 
 ## Overall Objective
