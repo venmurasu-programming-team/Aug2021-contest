@@ -1,3 +1,6 @@
+##Update
+Deadline extended by a week to Aug 29, 11:59 PM IST.
+
 ## Submission
 For submitting your code and results, add [cmrajan](https://github.com/cmrajan) , [GokulNC](https://github.com/GokulNC) , [visu](https://github.com/visu) as collaborators to your private repository
 
@@ -56,7 +59,7 @@ Stage-4: (Bonus points) Compare the model with other services
 ## Submission
 
 - Complete the task by the deadline and submit the shared Google form.
-  - The form will close sharply by the mentioned deadline (Aug 22 11:59PM IST)
+  - The form will close by the mentioned deadline (~~Aug 22 11:59PM IST~~) - (Aug 29 11:59PM IST)
   - Early submissions are welcome
 - For any doubts/clarifications regarding the contest, please go to the [_Issues_](https://github.com/venmurasu-programming-team/Aug2021-contest/issues) and raise your question
   (without posting your code or implementation details)
