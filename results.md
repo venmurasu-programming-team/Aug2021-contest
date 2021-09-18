@@ -7,74 +7,74 @@ Results of 2021 Venmurasu Programming Contest:
 9 teams signed up for the contest. 6 teams submitted their code.
 
 
-Judges for the contest 2021:
+### Judges for the contest 2021: ###
 ----------------------------
-Mahendrarajan Chandrasekaran, VP Engineering, Data Cloud, Canada
-Gokul NC, Machine Learning Engineer, One Fourth Labs, India
-Prem Selvaraj, Machine Learning Engineer, One Fourth Labs, India
+Mahendrarajan Chandrasekaran, VP Engineering, Data Cloud, Canada<br/>
+Gokul NC, Machine Learning Engineer, One Fourth Labs, India<br/>
+Prem Selvaraj, Machine Learning Engineer, One Fourth Labs, India<br/>
 
-### Evaluation Criteria ###
+### Evaluation Criteria: ###
+----------------------------
+Task Completion - Code runs without errors - 10%<br/>
+Quality - Sentences aligned correctly(If 1-n sentences are not mapped it's fine) - 20%<br/>
+Machine translation - 30%<br/>
+BLEU Score - 20%<br/>
+Code Quality - Code with comments and readme - 20%<br/>
+Bonus sections<br/>
 
-Task Completion - Code runs without errors - 10%
-Quality - Sentences aligned correctly(If 1-n sentences are not mapped it's fine) - 20%
-Machine translation - 30%
-BLEU Score - 20%
-Code Quality - Code with comments and readme - 20%
-Bonus sections
-
-### Results ###
+### Results: ###
+---------------
 
 Based on the evaluation criteria the results are below:
 
 #### First prize:  ₹ 6000 ####
 
-Suvan Sathyendira B
-Samyuktha M S
-Sashti Amar R A (John Tenning)
-Jeyam Palaniappan D
-Ashwin Kumar TG
-https://github.com/John-Tenning/VPC-Contest
+TG Ashwin Kumar [@tgashwinkumar](https://github.com/tgashwinkumar)</br>
+Jeyam Palaniappan D [@jeyam03](https://github.com/jeyam03)</br>
+Samyuktha M S [@samyuktha-12](https://github.com/samyuktha-12)</br>
+Sashti Amar R A [@John-Tenning](https://github.com/John-Tenning)</br>
+Suvan Sathyendira B [@suvanbalu](https://github.com/suvanbalu)</br>
+code: https://github.com/John-Tenning/VPC-Contest<br/>
 
 
 #### Second prize: 3 teams - ₹ 4000 each #### 
 
-Tharunkumar Dhanasekaran
-Kavin Aravindhan R
-Manuvikash S
-Sharan S S
-https://github.com/IcyEnigma/VenmurasuKMST
+Tharunkumar Dhanasekaran [@TharunPSG](https://github.com/TharunPSG)<br/>
+Kavin Aravindhan R <br/>
+Manuvikash S [@IcyEnigma](https://github.com/IcyEnigma)<br/>
+Sharan S S [@Sharan-121](https://github.com/Sharan-121) <br/>
+code: https://github.com/IcyEnigma/VenmurasuKMST<br/>
 
 
-Ashwin R
-Bala Bharat Raaj G S
-Sairam Vaidya M
-Gokula Krishnan S
-Siva Bharathwaaj S S
-https://github.com/sairam2661/Venmurasu-Project-1
+Ashwin R [@ashwin-rema](https://github.com/ashwin-rema)<br/>
+Bala Bharat Raaj G S <br/>
+Sairam Vaidya M [@sairam2661](https://github.com/sairam2661)<br/>
+Gokula Krishnan S [@GokulaKrishnanS2002](https://github.com/GokulaKrishnanS2002)<br/>
+Siva Bharathwaaj S S<br/>
+code: https://github.com/sairam2661/Venmurasu-Project-1<br/>
 
 
-Akil R M
-Gokulnath P K
-Prithik Kumar R
-Sanjay Krishnan R
-Shevannth R
-https://github.com/Akil-Rajendran/VPT-Contest 
+Akil R M [Akil-Rajendran](https://github.com/Akil-Rajendran) <br/>
+Gokulnath P K<br/>
+Prithik Kumar R<br/>
+Sanjay Krishnan R<br/>
+Shevannth R<br/>
+code: https://github.com/Akil-Rajendran/VPT-Contest<br/> 
 
 
 #### Third prize: 2 teams - ₹ 1000 each ####
 
-Aathithya  S
-Ajay P
-Deepak Pandian  A
-John Alphonse Raja  V
-https://github.com/johncoder-30/vpc-nlp-translation
+Aathithya S<br/>
+Ajay P<br/>
+Deepak Pandian  A<br/>
+John Alphonse Raja  V [@johncoder-30](https://github.com/johncoder-30) <br/>
+code: https://github.com/johncoder-30/vpc-nlp-translation <br/>
 
-
-Akash S P
-Dinesh C 
-Harishankar S
-Srinivasan K
-https://github.com/AkashSCIENTIST/venmurasu-competition-solution
+Akash SP [@AkashSCIENTIST](https://github.com/AkashSCIENTIST/) <br/>
+Dinesh C<br/>
+Harishankar S<br/>
+Srinivasan K<br/>
+code: https://github.com/AkashSCIENTIST/venmurasu-competition-solution<br/>
 
 
 Congratulations to all the winners!!!
