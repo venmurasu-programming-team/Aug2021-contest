@@ -9,10 +9,10 @@ For submitting your code and results, add [cmrajan](https://github.com/cmrajan) 
 ## Overall Objective
 
 In Machine Learning Engineering, major amount of time is consumed for data collection, data cleaning, model development and model evaluation.
-- In this preliminary round, we will focus on data cleaning and model evaluation aspects of Natural Language Processing (NLP) using a toy data to get a very basic understanding of how they work.
-- The final round would involve all the 4 above mentioned tasks.
+- We will focus on data cleaning and model evaluation aspects of Natural Language Processing (NLP) using a toy data to get a very basic understanding of how they work.
 
-The task in this round focuses on Machine Translation problem. The participants are required to complete the following:
+
+The task focuses on Machine Translation problem. The participants are required to complete the following:
 - Create a Tamil to English translation dataset using the toy data given
 - Evaluate the translation performance of existing open source models/services
 
@@ -64,7 +64,7 @@ Stage-4: (Bonus points) Compare the model with other services
 - For any doubts/clarifications regarding the contest, please go to the [_Issues_](https://github.com/venmurasu-programming-team/Aug2021-contest/issues) and raise your question
   (without posting your code or implementation details)
 - Please document your strategy of implementation in detail in the repo's README
-- Results would be announced within a week after the deadline, and shortlisted candidates would proceed to the final round.
+- Results would be announced within a week after the deadline.
 
 ## Selection
 
